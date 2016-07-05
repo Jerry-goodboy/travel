@@ -1,0 +1,11 @@
+﻿{
+	"map":
+	{
+		"baseUrl":[
+			{"name":"灰色版","url":"http://map.geoq.cn/ArcGIS/rest/services/ChinaOnlineStreetGray/MapServer","icon":"","isarcgismap":"true","visible":"true"},
+			{"name":"彩色版","url":"http://map.geoq.cn/ArcGIS/rest/services/ChinaOnlineStreetColor/MapServer","icon":"","isarcgismap":"true","visible":"false"},
+			{"name":"午夜版","url":"http://map.geoq.cn/ArcGIS/rest/services/ChinaOnlineStreetPurplishBlue/MapServer","icon":"","isarcgismap":"true","visible":"false"}
+		],
+		"extent":{"xmin":46.54186117908127, "ymin":7.196033731668881,"xmax":163.52428305405022,"ymax":56.02741634406878}
+	}
+}
